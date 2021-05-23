@@ -1,4 +1,4 @@
-# Server Security Guide
+# Minecraft Server Security Guide
 An advanced guide for protect your minecraft server or network.
 
 ## Index
